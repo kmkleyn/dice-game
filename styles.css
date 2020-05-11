@@ -7,7 +7,12 @@
 .dice {
   text-align: center;
   display: inline-block;
+}
 
+.roll-again-button {
+  font-size: 2rem;
+  font-family: 'Indie Flower', cursive;
+  margin: 3%;
 }
 
 body {
